@@ -1,7 +1,4 @@
 testgitinit 
-<<<<<<< HEAD
 test2 
 test4 
-=======
 test3 
->>>>>>> 5f141532b44d917d52fc9eca74415c34823aef45
